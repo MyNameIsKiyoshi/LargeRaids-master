@@ -1,0 +1,35 @@
+[15:58:57] [ServerMain/INFO]: Building unoptimized datafixer
+[15:59:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:59:05] [ServerMain/INFO]: Loaded 7 recipes
+[15:59:08] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[15:59:08] [Server thread/INFO]: Loading properties
+[15:59:08] [Server thread/INFO]: This server is running Paper version git-Paper-246 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: aaf5e39)
+[15:59:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:59:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:59:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:59:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:59:09] [Server thread/INFO]: Generating keypair
+[15:59:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:59:09] [Server thread/INFO]: Using default channel type
+[15:59:10] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:59:10] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:59:10] [Server thread/INFO]: [LargeRaids] Loading LargeRaids v1.10.6
+[15:59:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:59:10] [Server thread/INFO]: Preparing level "world"
+[15:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:59:12] [Server thread/INFO]: Time elapsed: 200 ms
+[15:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:59:12] [Server thread/INFO]: Time elapsed: 57 ms
+[15:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:59:12] [Server thread/INFO]: Time elapsed: 30 ms
+[15:59:12] [Server thread/INFO]: [LargeRaids] Enabling LargeRaids v1.10.6
+[15:59:12] [Server thread/INFO]: [LargeRaids] Loading artificial villages centers...
+[15:59:13] [Server thread/INFO]: Running delayed init tasks
+[15:59:13] [Server thread/INFO]: Done (5.075s)! For help, type "help"
+[15:59:13] [Server thread/INFO]: Timings Reset
+[15:59:13] [ForkJoinPool.commonPool-worker-2/INFO]: [LargeRaids] Loaded artificial villages centers.
+[15:59:18] [Server thread/INFO]: Plugins (1): LargeRaids
+[15:59:26] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:59:35] [Server thread/INFO]: Stopping server
+[15:59:35] [Server thread/INFO]: [LargeRaids] Disabling LargeRaids v1.10.6
+[15:59:35] [Server thread/INFO]: Saving players
