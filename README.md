@@ -1,4 +1,6 @@
-# LargeRaids
+## LargeRaids By SolarRabbit Remastered By MyNameIsKiyoshi (Kiyoshi - Kiyoshi#8862)
+## Updated To (1.19.2 Support) ⚠ This Version Works Only In 1.19.2 With JDK 18 ⚠
+## Discord Support : https://discord.gg/bpZag5NQdA
 
 [![](https://jitpack.io/v/zhenghanlee/LargeRaids-API.svg)](https://github.com/zhenghanlee/LargeRaids-API)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e2b8ef0d41e3404b91a62a35196c7e9e)](https://www.codacy.com/gh/zhenghanlee/LargeRaids/dashboard?utm_source=github.com&utm_medium=referral&utm_content=zhenghanlee/LargeRaids&utm_campaign=Badge_Grade)
